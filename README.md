@@ -55,6 +55,10 @@ npm run server
 # Terminal 4: Start frontend dev server
 npm run dev
 ```
+##UI-Demo
+
+https://github.com/user-attachments/assets/40bf75c4-5ad7-4bb6-8747-48232b13cd77
+
 
 ## Project Structure
 
