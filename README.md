@@ -1,7 +1,5 @@
 # MediConnect
-
-A healthcare communication platform connecting patients with providers through secure messaging.
-
+MediConnect is a unified digital platform designed to streamline the connection between patients, doctors, and healthcare services. Whether you're seeking expert medical advice, managing patient records, or coordinating care across specialties, MediConnect brings everything under one secure, user-friendly roof. By simplifying communication and enhancing accessibility, we aim to make healthcare more efficient, transparent, and patient-centric.
 ## Tech Stack
 
 ### Frontend
